@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name ="viewport " content ="width=device-">
+        <title>password</title>
+    </head>
+
+    <body style="background-color: cornflowerblue"></body>
+    <center>
+        <h3>Login with your Login detaiks</h3>
+        <br>
+        <br>
+        <br>
+        <br> Username:<br>
+        <input type="text">
+        <br><br><br>Password:<br>
+        <input type=" password"><br><br>
+
+        <burron style=" color: green;">LOGIN </burron>
+        <br><br>
+        <button style=" color:green;"C NEW ACCOUNT></button> <br><br>
+        <button style ="color:green;"F PASSWORD></button><br><br><br>
+        <marquee onmiuseover=" this.stop();"o "this.stop()">Welcome to My Login Page</marquee>
+    </center>
+</html>
